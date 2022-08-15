@@ -1,7 +1,14 @@
 package ru.hogeltbellai.utils;
 
-public class UtilsMain {
-	
-	//todo
+import org.bukkit.plugin.java.JavaPlugin;
 
+public class UtilsMain extends JavaPlugin {
+	
+	public void onEnable() {
+		
+	}
+
+	public void onDisable() {
+		
+	}
 }
